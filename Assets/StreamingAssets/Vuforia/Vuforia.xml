@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="turtle_code" size="2.000000 2.000000" />
+    <ImageTarget name="solft_slime" size="2.000000 2.000000" />
+    <ImageTarget name="plane_place" size="2.000000 2.000000" />
+  </Tracking>
+</QCARConfig>
